@@ -21,7 +21,7 @@ La búsqueda se realiza luego de ordenar el arreglo por edad.
 Permite Ingresar:
 - Nombre de la persona.
 - Edad de la persona (En caso de ser negativo nos pedira ingresar de nuevo la edad hasta que ingrese una valida).
-- En caso de ingresar una edad que no se encunetre en el arreglo nos dira que no existe tal persona con la edad indicada.
+- En caso de ingresar una edad que no se encuentre en el arreglo nos dira que no existe tal persona con la edad indicada.
 - Visualización de como encuentra la edad(Alto, Bajo, ValorCentro, Derecha, Izquierda).
 
 ---
